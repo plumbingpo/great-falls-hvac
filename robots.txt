@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://greatfallshvac.com/sitemap.xml
